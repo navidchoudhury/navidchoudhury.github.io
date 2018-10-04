@@ -61,6 +61,8 @@ canvas{
 
 }
 #skills{
+	text-align: center;
+	color: white;
 	font-size: 60px;
 }
 #work img{
@@ -78,6 +80,10 @@ canvas{
 		color: white;
 	font-weight: bold;
 
+}
+#contact{
+	text-align: center;
+	color: white
 }
 #contact button{
 	background-color: #232741;
